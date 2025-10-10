@@ -18,8 +18,8 @@ importers:
         specifier: ^2.0.0
         version: 2.1.0
       ethers:
-        specifier: 6.13.5
-        version: 6.13.5
+        specifier: 6.15.0
+        version: 6.15.0
     devDependencies:
       '@1inch/eslint-config':
         specifier: 3.0.6
@@ -1386,8 +1386,8 @@ packages:
     resolution: {integrity: sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==}
     engines: {node: '>=0.10.0'}
 
-  ethers@6.13.5:
-    resolution: {integrity: sha512-+knKNieu5EKRThQJWwqaJ10a6HE9sSehGeqWN65//wE7j47ZpFhKAnHB/JJFibwwg61I/koxaPsXbXpD/skNOQ==}
+  ethers@6.15.0:
+    resolution: {integrity: sha512-Kf/3ZW54L4UT0pZtsY/rf+EkBU7Qi5nnhonjUb8yTXcxH3cdcWrV2cRyk0Xk/4jK6OoHhxxZHriyhje20If2hQ==}
     engines: {node: '>=14.0.0'}
 
   event-target-shim@5.0.1:
@@ -4332,7 +4332,7 @@ snapshots:
 
   esutils@2.0.3: {}
 
-  ethers@6.13.5:
+  ethers@6.15.0:
     dependencies:
       '@adraffy/ens-normalize': 1.10.1
       '@noble/curves': 1.2.0
